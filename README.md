@@ -1,6 +1,6 @@
-# F=Guess the Number Game
+# Guess the Number Game
 
-A simple web-based game where players guess a number between 1 and 50. The game provides hints and keeps track of the number of attempts.
+A school project, a simple web-based game where players guess a number between 1 and 50. The game provides hints and keeps track of the number of attempts.
 
 ## Features
 
